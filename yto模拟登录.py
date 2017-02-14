@@ -12,7 +12,7 @@ urlLogin = 'http://ewms.yto56.net.cn/doLogin.action'  # post数据页面
 urlM = 'http://ewms.yto56.net.cn/searchWarnInfoManage.action?currentPage=1&menuFlag=dzmd_dzmd'  # 面单详情页面
 urlMD = 'http://ewms.yto56.net.cn/searchWarnInfoManage.action?userName=K89354469'  # 面单post数据页面
 userName = 'K89354469'
-passWord = 'Yoursender_2015c'
+passWord = 'Yoursender_2016a'
 headers = {
     'Host': 'ewms.yto56.net.cn',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0',
